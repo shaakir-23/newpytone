@@ -1,6 +1,6 @@
-def cubic(x,y,z) :
+def cubic(x,y,z):
 
-    surface=2*(x,y,z)
+    surface=2*(x*y*z)
 
     return surface
 
